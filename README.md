@@ -39,6 +39,7 @@ This tutorial outlines the setup for Active Directory(AD)
 <br />
 <h2>Conclusion</h2>
 
-<p>Once you've setup in this project, this Active Directory serves as a basis for future projects!</p>
+<p>Once you've setup in this project, this Active Directory serves as a basis for future projects and implementation!</p>
+- If you want to see how to use the Active Directory, click on the next project: <a href="https://github.com/JOmega12/Active-Directory-Deployment-and-Configuration">Next Project</a>
 
 <br />
