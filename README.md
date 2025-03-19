@@ -39,6 +39,6 @@ This tutorial outlines the setup for Active Directory(AD)
 <br />
 <h2>Conclusion</h2>
 
-<p>These occurrences might/ will happen in day-to-day work, especially when users in an organization forget their passwords and lock themselves out.</p>
+<p>Once you've setup in this project, this Active Directory serves as a basis for future projects!</p>
 
 <br />
