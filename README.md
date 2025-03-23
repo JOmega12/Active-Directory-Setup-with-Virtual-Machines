@@ -44,13 +44,12 @@ You also need to create the virtual network where both the virtual machines will
 
 <h3>Establishing Connection between the two Virtual Machines</h3>
 
-Make DC-1 Ip address static because you want the domain controller to be the DNS server so that the IP address doesnt change. DC-1's static address will now be 10.0.0.4 no matter how many times the virtual machine has restarted
+- Make DC-1 Ip address static because you want the domain controller to be the DNS server so that the IP address doesnt change. DC-1's static address will now be 10.0.0.4 no matter how many times the virtual machine has restarted
 ![setDC1NetworkToStatic](https://github.com/user-attachments/assets/579740d8-9c11-4be9-b9e1-b6bdf7dc7209)
 
-
-Disable Firewall of DC-1
+- Next access your DC-1 firewall
 ![HowToAccessWindowsFirewall](https://github.com/user-attachments/assets/a18c2957-bf9f-4edd-94a8-5fb0f06b0ccc)
-
+- Disable Firewall of DC-1
 ![TurnOffWindowsFirewall](https://github.com/user-attachments/assets/2e415790-e057-4b12-9dbd-b3d8fd580fe5)
 
 
